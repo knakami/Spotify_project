@@ -1,0 +1,1 @@
+This project is focused on working with a dataset containing information about songs played on Spotify. It involves preprocessing the input data, data cleaning, and visualization. The main emphasis of the entire analysis lies in correlating several pairs of variables.
